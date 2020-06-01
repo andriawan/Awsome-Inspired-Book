@@ -1,4 +1,4 @@
-# Awsome-Inspired-Book
+# Awsome-Inspiring-Book
 This is personal repo which contains List of Inspiring Book personally
 
 1. Suceeding With Open Source
